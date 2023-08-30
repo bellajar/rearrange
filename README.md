@@ -1,4 +1,4 @@
 Rearrange
 ===========
 
-This module is for learning coursera
+This is for learning coursera
